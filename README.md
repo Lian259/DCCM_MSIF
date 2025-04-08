@@ -26,3 +26,5 @@
 ## Usage
 1. Download code and data
 2. Execute `python eval.py`
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15171646.svg)](https://doi.org/10.5281/zenodo.15171646)
